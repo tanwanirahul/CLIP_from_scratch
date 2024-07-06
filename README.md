@@ -1,2 +1,2 @@
-# CLIP_from_scratch
+# CLIP
 OpenAI's CLIP model implementation
