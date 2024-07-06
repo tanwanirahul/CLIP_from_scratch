@@ -3,8 +3,7 @@ OpenAI's CLIP model implementation
 
 CLIP was one of the earliest vision language models that was widely adopted and paved the way for multimodal models evolution. Before CLIP, all computer vision based systems were built to classify some fixed set of categories. To use those systems in another domain required retraining/fine-tuning the model on a domain specific dataset.  The key contribution by the CLIP was its ability to do zero-shot transfer to newer domains that  highlighted CLIP's robustness against data distribution shift.
 
-`Paper`: [Learning Transferable Visual Models From Natural Language Supervision
-]([https://arxiv.org/pdf/2103.00020)
+`Paper`: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020)
 
 
 CLIP achieves this by combining the language and vision into a single model architecture as shown in the image below. 
